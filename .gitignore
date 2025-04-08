@@ -1,0 +1,32 @@
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio working folder
+.vs/
+
+# NuGet
+*.nupkg
+packages/
+*.snupkg
+*.nuspec
+
+# Rider (if you use JetBrains)
+.idea/
+
+# SQLite 数据库文件（如你需要忽略）
+*.db
+*.sqlite
+
+# Logs
+*.log
+
+# OS generated
+.DS_Store
+Thumbs.db
